@@ -51,7 +51,7 @@
             <a href="#about">sobre mi</a>
             <a href="#service">pasatiempos</a>
             <a href="#portfolio">portafolio</a>
-            <a href="#contact">contact</a>
+            <a href="#contact">contacto</a>
         </nav>
 
         <!-- Menubar -->
