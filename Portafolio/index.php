@@ -361,6 +361,16 @@
                         <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-2.png" class="view-btn"><i class="fas fa-search-plus"></i></a>
                     </div>
                 </div>
+
+                <div class="portfolio-item image web">
+                    <img src="assets/images/Portfolio/portfolio-2.png" alt="Portfolio-Image" />
+                    <div class="content">
+                        <p>categoría</p><h4>desarrollo web</h4>
+                        <br>
+                        <a href="https://proyecto-escuela-production.up.railway.app/"><p>Enlace</p></a>
+                        <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-3.png" class="view-btn"><i class="fas fa-search-plus"></i></a>
+                    </div>
+                </div>
     
             </div>
     
