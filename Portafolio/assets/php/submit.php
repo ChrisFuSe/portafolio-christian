@@ -19,8 +19,8 @@ if(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject']) &
 	$mail->Port=587; //specify SMTP Port
 	$mail->SMTPSecure="tls"; // Enable TLS encryption, `ssl` also accepted
 	$mail->SMTPAuth=true; // Enable SMTP authentication
-	$mail->Username="christinnarinas@gmail.com";  // Your Mail
-	$mail->Password='$skfr87SC'; // Your app password
+	$mail->Username="yasorim494@jernang.com";  // Your Mail
+	$mail->Password=""; // Your app password
 
 	$mail->setFrom($email, $name);  
 	$mail->addAddress("cfs.christianfuentes@gmail.com", "Christian"); // (Your Mail) An email address that will receive the email with the output of the form
