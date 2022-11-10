@@ -363,7 +363,7 @@
                 </div>
 
                 <div class="portfolio-item image web">
-                    <img src="assets/images/Portfolio/portfolio-2.png" alt="Portfolio-Image" />
+                    <img src="assets/images/Portfolio/portfolio-3.png" alt="Portfolio-Image" />
                     <div class="content">
                         <p>categoría</p><h4>desarrollo web</h4>
                         <br>
