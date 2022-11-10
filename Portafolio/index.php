@@ -375,26 +375,18 @@
     <section class="contact" id="contact">
 
         <div class="heading">
-            <h2><span>contact</span> me</h2>
+            <h2><span>Ponte en</span> Contacto</h2>
         </div>
 
         <div class="box-container">
 
             <div class="contact-info">
-
-                <h3>get in touch</h3>
-
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
     
                 <div class="info-item">
-                    <h4>Phone:</h4>
+                    <h4>Teléfono:</h4>
                     <div class="detail">
                         <div class="fas fa-phone"></div>
-                        <p>+123-456-789</p>
-                    </div>
-                    <div class="detail">
-                        <div class="fas fa-phone"></div>
-                        <p>+111-222-333</p>
+                        <p>+52 443-26-80-471</p>
                     </div>
                 </div>
     
@@ -402,11 +394,7 @@
                     <h4>email:</h4>
                     <div class="detail">
                         <div class="fas fa-envelope"></div>
-                        <p class="gmail">abc@gmail.com</p>
-                    </div>
-                    <div class="detail">
-                        <div class="fas fa-envelope"></div>
-                        <p class="gmail">xyz@gmail.com</p>
+                        <p class="gmail">cfs.christianfuentes@gmail.com</p>
                     </div>
                 </div>
 
@@ -414,7 +402,7 @@
                     <h4>linkedin:</h4>
                     <div class="detail">
                         <div class="fab fa-linkedin"></div>
-                        <p class="linkedin">https://www.linkedin.com/</p>
+                        <p class="linkedin">https://www.linkedin.com/in/christian-fuentes-serrano-834681234/</p>
                     </div>
                 </div>
 
@@ -422,22 +410,10 @@
                     <h4>github:</h4>
                     <div class="detail">
                         <div class="fab fa-github"></div>
-                        <p class="github">https://github.com/</p>
+                        <p class="github">https://github.com/ChrisFuSe/</p>
                     </div>
                 </div>
             </div>
-    
-            <form method="post" action="/assets/php/submit.php" class="contact-form" id="contactUs-Form">
-                    
-                <input type="text" name="name" class="box" id="name" placeholder="name" required />
-                <input type="email" name="email" class="box" id="email" placeholder="email" required />
-                <input type="text" name="subject" class="box" id="subject" placeholder="subject" required />
-                <textarea cols="30" rows="10" name="comment" id="comment" class="box" placeholder="message"></textarea>
-                <button type="submit" class="btn" name="submit" id="submit">send message</button>
-                
-                <span class="alert" id="msg"></span>
-                
-            </form>
             
         </div>
 
@@ -449,10 +425,10 @@
     <!-------------------- Footer Area (Start) -------------------->
     <footer>
         <div class="social">
-            <a href="#" class="fab fa-facebook-f"></a>
-            <a href="#" class="fab fa-instagram"></a>
-            <a href="#" class="fab fa-linkedin-in"></a>
-            <a href="#" class="fab fa-github"></a>
+            <a href="https://www.facebook.com/christian.fuentes.1804109/" class="fab fa-facebook-f"></a>
+            <a href="https://www.instagram.com/chris_fuentes_serrano/" class="fab fa-instagram"></a>
+            <a href="https://www.linkedin.com/in/christian-fuentes-serrano-834681234/" class="fab fa-linkedin-in"></a>
+            <a href="https://github.com/ChrisFuSe/" class="fab fa-github"></a>
         </div>
 
         <div class="content">
