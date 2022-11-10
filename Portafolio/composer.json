@@ -4,7 +4,7 @@
         "platform": {
       
           "php": "7.4",
-          "phpmailer/phpmailer": "^6.5"
+          "phpmailer/phpmailer": "6.5"
       
         }
       
