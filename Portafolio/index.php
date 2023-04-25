@@ -183,7 +183,7 @@
                         <div class="progress-bar"> <span></span> </div>
                     </div>
                     <div class="box">
-                        <h3>Servicios en la nube<span> 35% </span> </h3>
+                        <h3>Java<span> 50% </span> </h3>
                         <div class="progress-bar"> <span></span> </div>
                     </div>
                 </div>
