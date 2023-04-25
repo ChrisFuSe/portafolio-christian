@@ -111,7 +111,6 @@
                         <h4>edad: <span>22</span></h4>
                         <h4>género: <span>masculino</span></h4>
                         <h4>lenguajes: <span>español, inglés</span></h4>
-                        <h4>trabajo: <span>desarrollador backend</span></h4>
                         <a href="/assets/documents/CV.pdf" class="btn">descargar CV <i class="fas fa-download"></i></a>
                     </div>
 
