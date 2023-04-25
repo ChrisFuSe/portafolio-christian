@@ -179,11 +179,11 @@
                         <div class="progress-bar"> <span></span> </div>
                     </div>
                     <div class="box">
-                        <h3>JQuery<span> 65% </span> </h3>
+                        <h3>PHP<span> 65% </span> </h3>
                         <div class="progress-bar"> <span></span> </div>
                     </div>
                     <div class="box">
-                        <h3>PHP<span> 65% </span> </h3>
+                        <h3>Servicios en la nube<span> 35% </span> </h3>
                         <div class="progress-bar"> <span></span> </div>
                     </div>
                 </div>
@@ -211,34 +211,43 @@
                 <div class="experience-item">
                     <i class="fas fa-graduation-cap"></i>
                     <div class="content">
+                        <span>2018 - Ahora</span>
+                        <h3>Ingeniería</h3>
+                        <p>Estoy terminando mis estudios a nivel licenciatura en el ITM (Instituto Tecnológico de Morelia) dentro de la especialidad de arquitectura web.</p>
+                    </div>
+                </div>
+                
+                <div class="experience-item">
+                    <i class="fas fa-graduation-cap"></i>
+                    <div class="content">
                         <span>2015 - 2018</span>
                         <h3>Preparatoria</h3>
                         <p>Realice mis estudios a nivel bachillerato en el CBTis #149 curzando el bachillerato físico 
                             matemático y eligiendo la carrera técnica de soporte y mantenimiento de equipo de cómputo.</p>
                     </div>
                 </div>
-    
-                <div class="experience-item">
-                    <i class="fas fa-graduation-cap"></i>
-                    <div class="content">
-                        <span>2018 - Ahora</span>
-                        <h3>Ingeniería</h3>
-                        <p>Estoy terminando mis estudios a nivel licenciatura en el ITM (Instituto Tecnológico de Morelia) dentro de la especialidad de arquitectura web.</p>
-                    </div>
-                </div>
 
             </div>
 
             <div class="experience">
-
+                
                 <div class="experience-item">
                     <i class="fas fa-briefcase"></i>
                     <div class="content">
-                        <span>2018</span>
-                        <h3>becario en el imss-cdi de morelia</h3>
-                        <p>Di mantenimiento tanto preventivo como correctivo a los equipos de computo.
-                            Y auxilie en varias tareas administrativas.
-                        </p>
+                        <span>Ene 2023 - Abr 2023</span>
+                        <h3> Residencias Profesionales en StoreCheck S.A DE C.V </h3>
+                        <p>Implementación de Secrets Manager con la librería de Boto3 de python en funciones lambda de AWS.
+                            Recopilación y análisis de datos del servicio Cloudtrail de AWS para identificar posibles comportamientos sospechosos</p>
+                    </div>
+                </div>
+                
+                <div class="experience-item">
+                    <i class="fas fa-briefcase"></i>
+                    <div class="content">
+                        <span>Dic 2021 - Dic 2022</span>
+                        <h3>becario en the bionhub technologies</h3>
+                        <p>Implementar una plataforma para la administración en una clínica.
+                            Desarrollo de una plataforma web para dar difusión a las escuelas de la ciudad de cuernavaca.</p>
                     </div>
                 </div>
 
@@ -251,14 +260,15 @@
                             diversas labores administrativas para la jefatura de proyectos de investigación.</p>
                     </div>
                 </div>
-    
+                
                 <div class="experience-item">
                     <i class="fas fa-briefcase"></i>
                     <div class="content">
-                        <span>2021 - ahora</span>
-                        <h3>becario en the bionhub technologies</h3>
-                        <p>Implementar una plataforma para la administración en una clínica.
-                            Desarrollo de una plataforma web para dar difusión a las escuelas de la ciudad de cuernavaca.</p>
+                        <span>2018</span>
+                        <h3>becario en el imss-cdi de morelia</h3>
+                        <p>Di mantenimiento tanto preventivo como correctivo a los equipos de computo.
+                            Y auxilie en varias tareas administrativas.
+                        </p>
                     </div>
                 </div>
     
